@@ -1,0 +1,25 @@
+# Maya generated files #
+########################
+# Maya temp files
+*.maya[Ss]watches*
+*.swatch*
+*.exr
+*.tx
+
+#Substance temp save files
+*.tmpsave
+
+# NodeJS
+node_modules/
+package-lock.json
+*.log
+
+# MacOS
+.DS_Store
+
+# gltf-bundle
+dist/
+
+# Environment files
+.env
+certs/
