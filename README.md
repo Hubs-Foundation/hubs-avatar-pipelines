@@ -1,5 +1,9 @@
 # hubs-avatar-pipelines
 
+This contains some useful working files for editing avatars. 
+
+Note: the .blend files were created with Blender 2.8 beta due to the built-in glTF exporter. 
+
 
 # License
 
