@@ -9,6 +9,9 @@
 #Substance temp save files
 *.tmpsave
 
+#Blender backup save files
+*.blend1
+
 # NodeJS
 node_modules/
 package-lock.json
