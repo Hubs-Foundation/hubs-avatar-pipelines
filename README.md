@@ -8,6 +8,10 @@ The glTF importer/exporter for Blender is currently in development. Expect some 
 
 ## How to use these files
 
+
+**IMPORTANT:  If you are cloning this repo, you MUST first install [GitLFS](https://git-lfs.github.com/) or else many of the files will not work.**
+
+
 Depending on how involved you'd like to get in the avatar creation process, you might choose to simply 're-skin' the existing robot avatar by painting your own texture maps. This is as simple as grabbing one of the [image templates](/Photoshop) and painting on top of it. For the more adventurous, you may also create your own avatar model in a 3d modeling app. We recommend using Blender since we have provided example files that you may use as a guide. (Typically, skeleton setup varies between modeling appications which can make importing/exporting skeletons a bit tricky due to unexpected changes in bone rotations, but it is still possible to use something other than Blender.)
 
 ## Making your own avatar model
