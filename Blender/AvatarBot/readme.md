@@ -16,7 +16,7 @@ The file contains a model rigged with an skeleton (Armature). The armature may b
 
 The model's vertices are all weighted either zero or 100% to a bone. This is not a hard requirement for Hubs avatars, just a choice made for this particular avatar design. The process of adding another mesh (like a hat) to this avatar would involve 'Joining' your new mesh to this model, then in Edit Mode, assigning its vertices to the corresponding Vertex Group, such as the head.
 
-![Vertex Groups in Blender](/docs/VertexGroups.jpg)
+![Vertex Groups in Blender](/docs/VertexGroups.JPG)
 
 Hubs avatars do not currently employ any sort of IK (Inverse Kinematics) for elbows or feet. This may change in future iterations.
 
@@ -24,7 +24,7 @@ The skeleton has been animated with several important short clips (Actions), nam
 There is also an animation that makes the robot's eyes move around a bit to give it a little more life, but this is manually set to loop in the glTF file itself.
 
 
-![Animation Actions in Blender](/docs/AnimationActions.jpg)
+![Animation Actions in Blender](/docs/AnimationActions.JPG)
 
 There are some unused shape keys (morphing) on the model, such as eye blinking and mouth shapes. In the future, some of these may get used as this avatar workflow develops but for now, you can safely ignore or delete them when making your own model.
 
