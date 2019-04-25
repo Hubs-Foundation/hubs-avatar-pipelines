@@ -16,6 +16,8 @@ Depending on how involved you'd like to get in the avatar creation process, you 
 
 ## Making your own avatar model
 
+**For specific information about how to use the .blend files, be sure to check out the readme within the [Blender/AvatarBot](/Blender/AvatarBot) folder.**
+
 Hubs avatars are meant for VR, which means that you should work in real world units. A typical avatar height is roughly 1.7 meters. Note: This is typically a 'standing height'. The lack of legs shown here is a part of that overall height.
 
 ![avatar height diagram](docs/avatarHeight.jpg)
