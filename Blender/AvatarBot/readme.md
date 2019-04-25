@@ -35,7 +35,7 @@ In Hubs, you may notice that the robot's head scales up when someone talks via t
 The model has a BSDF material applied to it which is set up as per the [glTF 2.0 guidelines within the Blender 2.8 manual](https://docs.blender.org/manual/en/dev/addons/io_gltf2.html). Some of this setup may be changing as the glTF specifications get updated so it is recommended to check back on that documentation periodically.
 Because the importer/exporter add-on is updated more frequently than Blender 2.8, it is recommended that you update and install that add-on manually.
 
-The default textures on the model are located in the [Exported Texture Sets](../Exported Texture Sets/_Bot_Base) folder in this repo.
+The default textures on the model are located in the [Exported Texture Sets](../Exported%20Texture%20Sets/_Bot_Base) folder in this repo.
 
 ## Exporting
 
