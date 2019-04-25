@@ -2,9 +2,9 @@
 
 ## AvatarBot_base_for_export.blend
 
-*This is a Blender 2.8 file.
+**This is a Blender 2.8 file.**
 
-This is the most important file used when exporting to a final glTF or glb.*
+**This is the most important file used when exporting to a final glTF or glb.**
 
 It is the base (default) robot avatar used by Hubs and can be useful to dissect how Hubs avatars work or when attempting to make your own.
 
