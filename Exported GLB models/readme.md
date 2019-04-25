@@ -9,4 +9,4 @@ Both models have identical UV texture layouts so creating a texture for one will
 
 For example, here is the same texture applied to both variants:
 
-![Both model variants in a wrap dress texture](docs/Bot_Dress_BothModels.jpg)
+![Both model variants in a wrap dress texture](/docs/Bot_Dress_BothModels.jpg)
