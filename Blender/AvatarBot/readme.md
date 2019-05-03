@@ -8,6 +8,8 @@
 
 It is the base (default) robot avatar used by Hubs and can be useful to dissect how Hubs avatars work or when attempting to make your own.
 
+**AvatarBot_base_for_export_altbody.blend** is identical except that it has a lattice deformer modifier on it that adjusts the shape of the body to be more of an 'hourglass' silhouette. You can adjust that lattice to experiment with different body shapes. This ensures that the UV layout does not change and you can use the same textures for any new shaped body you make.
+
 ## Skeleton and animation
 
 The file contains a model rigged with an skeleton (Armature). The armature may be hidden when opening the file in Blender. You can unhide it via the 'Object Types Visibility' dropdown in the 3d viewport. 
