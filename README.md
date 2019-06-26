@@ -10,6 +10,8 @@ Depending on how involved you'd like to get in the avatar creation process, you 
 
 A quick and easy way to create a custom avatar in Hubs is to create a custom skin using an image editor or texturing tool. You can use the following resources:
 
+* [Quilt](https://tryquilt.io/) - A simple tool put together by the Hubs team for quickly re-skinning the default Hubs robot avatar. 
+
 * [Photoshop PSD Templates](Photoshop) - Photoshop templates for a custom Hubs base color skin. You can also use Photoshop's 3D painting tools, using the [Robot OBJ/MAT file](https://github.com/j-conrad/hubs-avatar-pipelines/tree/master/Other%20model%20formats).
 
 * [Substaince Painter Project](Substance) - Full [Substance Painter](https://www.allegorithmic.com/products/substance-painter) projects for advanced custom skinning. You can also download and modify any of our [example texture sets](Exported%20Texture%20Sets).
