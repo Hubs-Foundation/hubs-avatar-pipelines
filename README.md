@@ -8,7 +8,9 @@ Depending on how involved you'd like to get in the avatar creation process, you 
 
 ## Making your own custom avatar skin
 
-A quick and easy way to create a custom avatar in Hubs is to create a custom skin using an image editor or texturing tool. You can use the following resources:
+A quick and easy way to create a custom avatar in Hubs is to create a custom skin using an image editor or texturing tool. We have a [Getting Started Tutorial](https://docs.google.com/document/d/1K1Eos1sjqN4N9lPlYQfvU53v8f1HxmdTZRjH4RLrGq8/edit) to help you create your first avatar skin.
+
+You can use the following resources:
 
 * [Quilt](https://tryquilt.io/) - A simple tool put together by the Hubs team for quickly re-skinning the default Hubs robot avatar. 
 
