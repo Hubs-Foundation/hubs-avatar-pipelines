@@ -6,6 +6,17 @@ This contains some useful working files for editing avatars for [Mozilla Hubs](h
 
 Depending on how involved you'd like to get in the avatar creation process, you might choose to simply 're-skin' the existing robot avatar by painting your own texture maps, or create your own fully custom 3D model.
 
+## Reduce Cloning Size
+Cloning the full repository can be difficult on a slow connection due to its large size. The majority of this comes from `Substance/`, which is several GB, and is not necessary unless you intend on using Substance Painter when customizing an avatar. If you do not intend to modify the avatars using Substance Painter, you can exclude the files in `Substance/` from being downloaded by GitLFS by following these commands:
+```
+mkdir hubs-avatar-pipelines && cd hubs-avatar-pipelines
+git init
+git remote add -f origin https://github.com/MozillaReality/hubs-avatar-pipelines.git
+git config lfs.fetchexclude "Substance"
+git pull origin master
+```
+This reduces the project download size from several GB to less than one GB.
+
 ## Making your own custom avatar skin
 
 A quick and easy way to create a custom avatar in Hubs is to create a custom skin using an image editor or texturing tool. We have a [Getting Started Tutorial](https://docs.google.com/document/d/1K1Eos1sjqN4N9lPlYQfvU53v8f1HxmdTZRjH4RLrGq8/edit) to help you create your first avatar skin.
