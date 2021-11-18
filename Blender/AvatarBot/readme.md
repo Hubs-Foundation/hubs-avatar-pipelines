@@ -18,7 +18,7 @@ The file contains a model rigged with an skeleton (Armature). The armature may b
 
 Currently, the bone names (and the hierarchy) that Hubs refers to are hard-coded. In other words, you will need to use the same bone names as the ones in the Blender file, or if you're making your own from scratch, name your bones accordingly.
 
-![Armature (skeleton) hierarchy and bone names](docs/BoneHierarchy.jpg)
+![Armature (skeleton) hierarchy and bone names](/docs/BoneHierarchy.jpg)
 
 The model's vertices are all weighted either zero or 100% to a bone. This is not a hard requirement for Hubs avatars, just a choice made for this particular avatar design. The process of adding another mesh (like a hat) to this avatar would involve 'Joining' your new mesh to this model, then in Edit Mode, assigning its vertices to the corresponding Vertex Group, such as the head.
 
