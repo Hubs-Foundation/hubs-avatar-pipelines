@@ -1,6 +1,6 @@
 # Avatar assets and templates for Mozilla Hubs
 
-This contains some useful working files for editing avatars for [Mozilla Hubs](https://hubs.mozilla.com). 
+This contains some useful working files for editing avatars for Hubs 
 
 **IMPORTANT:  If you are cloning this repo, _you MUST first install [GitLFS](https://git-lfs.github.com/)_ or else many of the files will not work.**
 
