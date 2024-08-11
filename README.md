@@ -1,4 +1,4 @@
-# Avatar assets and templates for Mozilla Hubs
+# Avatar assets and templates for Hubs
 
 This contains some useful working files for editing avatars for Hubs 
 
@@ -11,7 +11,7 @@ Cloning the full repository can be difficult on a slow connection due to its lar
 ```
 mkdir hubs-avatar-pipelines && cd hubs-avatar-pipelines
 git init
-git remote add -f origin https://github.com/MozillaReality/hubs-avatar-pipelines.git
+git remote add -f origin https://github.com/Hubs-Foundation/hubs-avatar-pipelines.git
 git config lfs.fetchexclude "Substance"
 git pull origin master
 ```
