@@ -2,9 +2,16 @@
 
 This contains some useful working files for editing avatars for Hubs 
 
-**IMPORTANT:  If you are cloning this repo, _you MUST first install [GitLFS](https://git-lfs.github.com/)_ or else many of the files will not work.**
-
 Depending on how involved you'd like to get in the avatar creation process, you might choose to simply 're-skin' the existing robot avatar by painting your own texture maps, or create your own fully custom 3D model.
+
+## Download
+
+This repository uses [Git LFS](https://git-lfs.com/).
+
+If you just want the files to use, please [download them from here](https://drive.google.com/drive/folders/1gS9Ut6mXEc_uDajIIoRomtZ2bdbEF4rU?usp=sharing).
+
+**Contributors:**
+If you want to contribute to the repository, you will need to have Git LFS installed before cloning the repository (don't forget to run `git lfs install` once you've installed it).
 
 ## Reduce Cloning Size
 Cloning the full repository can be difficult on a slow connection due to its large size. The majority of this comes from `Substance/`, which is several GB, and is not necessary unless you intend on using Substance Painter when customizing an avatar. If you do not intend to modify the avatars using Substance Painter, you can exclude the files in `Substance/` from being downloaded by GitLFS by following these commands:
